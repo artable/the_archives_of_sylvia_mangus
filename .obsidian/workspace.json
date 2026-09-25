@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "8a1acd38600c28c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33a584e6cf7d562",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a697f0105f99f93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAG 011 - Dreamer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAG 011 - Dreamer"
+            }
+          },
+          {
+            "id": "632f4062b802fc07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dreamer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dreamer"
+            }
+          },
+          {
+            "id": "22e12b5d88a63153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Crimson Fate of the Archivist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Crimson Fate of the Archivist"
+            }
+          },
+          {
+            "id": "443fd6c8637d7b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAG 001 - Anglerfish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAG 001 - Anglerfish"
+            }
+          },
+          {
+            "id": "2e9ec046554e5171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAG 017 - The Bone Turner's Tale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAG 017 - The Bone Turner's Tale"
+            }
+          },
+          {
+            "id": "86f47ab2301bd318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jared Hopworth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jared Hopworth"
+            }
+          },
+          {
+            "id": "339e9062e63d8868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Library of Juergen Lightner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Library of Juergen Lightner"
+            }
+          },
+          {
+            "id": "0729faf56a88af22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graham Folger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graham Folger"
+            }
+          },
+          {
+            "id": "15fae412470c3446",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "220e620e1df36f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fac7106eebf235a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac647155d8779da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "494fb0b8037b6db1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3fd976d4ac5e78fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4adf30ea3b4231f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d24bf17978624f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53dc8a1c217d1aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Crimson Fate of the Archivist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f76cc6c178867349",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Crimson Fate of the Archivist.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e940b523aaf3692b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdd2e4834a9a9ade",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c9220f2bf7773390",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Crimson Fate of the Archivist.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "22e12b5d88a63153",
+  "lastOpenFiles": [
+    "The Dreamer.md",
+    "The Crimson Fate of the Archivist.md",
+    "MAG 011 - Dreamer.md",
+    "Graham Folger.md",
+    "MAG 017 - The Bone Turner's Tale.md",
+    "MAG 003 - Across The Street.md",
+    "MAG 002 - Do Not Open.md",
+    "MAG 001 - Anglerfish.md",
+    "README.md",
+    "The Library of Juergen Lightner.md",
+    "Jared Hopworth.md",
+    "MAG 003.md",
+    "MAG 003 - Across The Street(1).md",
+    "Timeline.md",
+    "The AnglerFish.md",
+    "Welcome.md"
+  ]
+}
