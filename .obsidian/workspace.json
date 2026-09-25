@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entities/The Crimson Fate of the Archivist.md",
+                "file": "Statements/MAG 003 - Across The Street.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Crimson Fate of the Archivist"
+              "title": "MAG 003 - Across The Street"
             }
           },
           {
@@ -69,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/MAG 003 - Across The Street.md",
+                "file": "Persons of Interest/The Dreamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAG 003 - Across The Street"
+              "title": "The Dreamer"
+            }
+          },
+          {
+            "id": "d4a840c660f88eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statements/MAG 011 - Dreamer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAG 011 - Dreamer"
             }
           },
           {
@@ -148,6 +162,20 @@
             }
           },
           {
+            "id": "a6144d137d426c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Intricately Carved Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Intricately Carved Table"
+            }
+          },
+          {
             "id": "15fae412470c3446",
             "type": "leaf",
             "state": {
@@ -158,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -236,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entities/The Crimson Fate of the Archivist.md",
+                "file": "Persons of Interest/Graham Folger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entities/The Crimson Fate of the Archivist.md",
+                "file": "Persons of Interest/Graham Folger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -298,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entities/The Crimson Fate of the Archivist.md",
+                "file": "Persons of Interest/Graham Folger.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -325,21 +353,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "06a7e9409967da4b",
+  "active": "0729faf56a88af22",
   "lastOpenFiles": [
-    "Statements/MAG 011 - Dreamer.md",
+    "The Intricately Carved Table.md",
+    "Persons of Interest/Graham Folger.md",
     "Persons of Interest/The Dreamer.md",
+    "Statements/MAG 001 - Anglerfish.md",
+    "Statements/MAG 003 - Across The Street.md",
+    "Statements/MAG 011 - Dreamer.md",
+    "Persons of Interest/Somewhat Less Interesting Persons/Amy Patel.md",
+    "Persons of Interest/Somewhat Less Interesting Persons/Somewhat Less Interesting Persons.md",
+    "Persons of Interest/Somewhat Less Interesting Persons",
+    "Statements/MAG 017 - The Bone Turner's Tale.md",
     "Entities/The Crimson Fate of the Archivist.md",
-    "Untitled.md",
     "Entities",
     "Persons of Interest",
-    "Statements/MAG 003 - Across The Street.md",
     "Persons of Interest/Jared Hopworth.md",
-    "Statements/MAG 001 - Anglerfish.md",
-    "Statements/MAG 017 - The Bone Turner's Tale.md",
     "README.md",
     "Statements",
-    "Persons of Interest/Graham Folger.md",
     "Statements/MAG 002 - Do Not Open.md",
     "Entities/The Library of Juergen Lightner.md",
     "MAG 003.md",
