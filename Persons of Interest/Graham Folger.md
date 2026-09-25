@@ -5,7 +5,7 @@
 
 
 ## Notes
-If this graham is the same gram mentioned to be dating by the dreamer than this is spooky indeed. Timeline presented
+If this graham is the same gram mentioned to be dating by the dreamer then there are some further connections raised between [[The Dreamer]] and [[The Intricately Carved Table]]
 
 ## Timeline
 
@@ -13,10 +13,11 @@ If this graham is the same gram mentioned to be dating by the dreamer than this 
 | ---------------------- | ------------------------------------------------------------ |
 | ...                    | Graham obtains and restores [[The Intricately Carved Table]] |
 | 9-2005                 | [[Amy Patel]] Begins observing Graham Folger                 |
-| 7-4-2006               | Graham is Replaced by 'Not-Graham'                           |
+| 7-4-2006               | Graham is Replaced by [[Jared Hopworth\|Not-Graham]]         |
 | ...                    | 'Graham' and [[The Dreamer]] move in together                |
 | 2008                   | [[The Dreamer]] and Graham Folger Break up[^1]               |
 | Shortly Thereafter ... | And the Dreamer Begins to Dream                              |
-[^1]
+
+
 
 [^1]: I'd broken up with Graham, my boyfriend of six years and had to leave the home we shared, going to stay with some of the few friends that had survived my year of stress-fuelled outbursts and constantly cancelled plans. [[The Dreamer]]

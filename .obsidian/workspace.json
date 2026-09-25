@@ -125,30 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persons of Interest/Jared Hopworth.md",
+                "file": "Persons of Interest/Graham Folger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jared Hopworth"
+              "title": "Graham Folger"
             }
           },
           {
             "id": "339e9062e63d8868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entities/The Library of Juergen Lightner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Library of Juergen Lightner"
-            }
-          },
-          {
-            "id": "0729faf56a88af22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,6 +145,20 @@
               },
               "icon": "lucide-file",
               "title": "Graham Folger"
+            }
+          },
+          {
+            "id": "0729faf56a88af22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statements/MAG 003 - Across The Street.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAG 003 - Across The Street"
             }
           },
           {
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -353,13 +353,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "0729faf56a88af22",
+  "active": "86f47ab2301bd318",
   "lastOpenFiles": [
-    "The Intricately Carved Table.md",
+    "Persons of Interest/Jared Hopworth.md",
     "Persons of Interest/Graham Folger.md",
+    "Entities/The Library of Juergen Lightner.md",
+    "Untitled.md",
+    "Statements/MAG 003 - Across The Street.md",
+    "The Intricately Carved Table.md",
     "Persons of Interest/The Dreamer.md",
     "Statements/MAG 001 - Anglerfish.md",
-    "Statements/MAG 003 - Across The Street.md",
     "Statements/MAG 011 - Dreamer.md",
     "Persons of Interest/Somewhat Less Interesting Persons/Amy Patel.md",
     "Persons of Interest/Somewhat Less Interesting Persons/Somewhat Less Interesting Persons.md",
@@ -368,11 +371,9 @@
     "Entities/The Crimson Fate of the Archivist.md",
     "Entities",
     "Persons of Interest",
-    "Persons of Interest/Jared Hopworth.md",
     "README.md",
     "Statements",
     "Statements/MAG 002 - Do Not Open.md",
-    "Entities/The Library of Juergen Lightner.md",
     "MAG 003.md",
     "MAG 003 - Across The Street(1).md",
     "Timeline.md",
