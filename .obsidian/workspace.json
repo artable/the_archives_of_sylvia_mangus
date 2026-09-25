@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAG 011 - Dreamer.md",
+                "file": "Statements/MAG 011 - Dreamer.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dreamer.md",
+                "file": "Persons of Interest/The Dreamer.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "22e12b5d88a63153",
+            "id": "06a7e9409967da4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Crimson Fate of the Archivist.md",
+                "file": "Entities/The Crimson Fate of the Archivist.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,12 +50,12 @@
             }
           },
           {
-            "id": "443fd6c8637d7b87",
+            "id": "22e12b5d88a63153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAG 001 - Anglerfish.md",
+                "file": "Statements/MAG 001 - Anglerfish.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,12 +64,40 @@
             }
           },
           {
+            "id": "03361843b8394777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statements/MAG 003 - Across The Street.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAG 003 - Across The Street"
+            }
+          },
+          {
+            "id": "443fd6c8637d7b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entities/The Crimson Fate of the Archivist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Crimson Fate of the Archivist"
+            }
+          },
+          {
             "id": "2e9ec046554e5171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAG 017 - The Bone Turner's Tale.md",
+                "file": "Statements/MAG 017 - The Bone Turner's Tale.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jared Hopworth.md",
+                "file": "Persons of Interest/Jared Hopworth.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Library of Juergen Lightner.md",
+                "file": "Entities/The Library of Juergen Lightner.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graham Folger.md",
+                "file": "Persons of Interest/Graham Folger.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Crimson Fate of the Archivist.md",
+                "file": "Entities/The Crimson Fate of the Archivist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Crimson Fate of the Archivist.md",
+                "file": "Entities/The Crimson Fate of the Archivist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -270,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Crimson Fate of the Archivist.md",
+                "file": "Entities/The Crimson Fate of the Archivist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,23 +325,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "22e12b5d88a63153",
+  "active": "06a7e9409967da4b",
   "lastOpenFiles": [
-    "The Dreamer.md",
-    "The Crimson Fate of the Archivist.md",
-    "MAG 011 - Dreamer.md",
-    "Graham Folger.md",
-    "MAG 017 - The Bone Turner's Tale.md",
-    "MAG 003 - Across The Street.md",
-    "MAG 002 - Do Not Open.md",
-    "MAG 001 - Anglerfish.md",
+    "Statements/MAG 011 - Dreamer.md",
+    "Persons of Interest/The Dreamer.md",
+    "Entities/The Crimson Fate of the Archivist.md",
+    "Untitled.md",
+    "Entities",
+    "Persons of Interest",
+    "Statements/MAG 003 - Across The Street.md",
+    "Persons of Interest/Jared Hopworth.md",
+    "Statements/MAG 001 - Anglerfish.md",
+    "Statements/MAG 017 - The Bone Turner's Tale.md",
     "README.md",
-    "The Library of Juergen Lightner.md",
-    "Jared Hopworth.md",
+    "Statements",
+    "Persons of Interest/Graham Folger.md",
+    "Statements/MAG 002 - Do Not Open.md",
+    "Entities/The Library of Juergen Lightner.md",
     "MAG 003.md",
     "MAG 003 - Across The Street(1).md",
     "Timeline.md",
-    "The AnglerFish.md",
+    "Entities/The AnglerFish.md",
     "Welcome.md"
   ]
 }
